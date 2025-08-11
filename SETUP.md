@@ -33,12 +33,6 @@ ollama pull gemma3:1b
 The repository already includes the ChromaDB folder with all document embeddings.
 No additional embedding step is required.
 
-If you want to rebuild embeddings from scratch:
-
-```bash
-python build_embeddings.py
-```
-
 ## 5. Run the App
 
 Start the Corporate Agent with:
