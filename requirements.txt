@@ -1,0 +1,8 @@
+gradio>=4.0.0
+python-docx>=0.8.11
+tqdm>=4.66.0
+chromadb>=0.4.22
+langchain>=0.2.0
+langchain-ollama>=0.1.0
+nomic>=2.0.0
+ollama>=0.1.0
